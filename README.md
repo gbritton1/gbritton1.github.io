@@ -1,12 +1,15 @@
 # Gerald Britton, Pluralsight Author
 ---
+## Current Courses
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gbritton1/gbritton1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Capturing Logic with Custom Functions in PostgreSQL](https://app.pluralsight.com/library/courses/capturing-logic-custom-functions-postgresql) 
+[PostgreSQL Functions Playbook](https://app.pluralsight.com/library/courses/posgresql-functions-playbook) 
+[Manging SQL Server Database Concurrency](https://app.pluralsight.com/library/courses/manage-sql-server-concurrency) 
+[Designing and Implementing SQL Server Tables and Views](https://app.pluralsight.com/library/courses/sqlserver-tables-view-designing-implementing) 
+[Getting Started with Python on SQL Server](https://app.pluralsight.com/library/courses/python-sql-server-getting-started) 
+[Functional Programming with Python](https://app.pluralsight.com/library/courses/python-functional-programming) 
+[Design Patterns with Python](https://app.pluralsight.com/library/courses/python-design-patterns) 
+[Building More Python Design Patterns](https://app.pluralsight.com/library/courses/python-design-patterns-building-more) 
 
 ### Markdown
 
