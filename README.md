@@ -4,7 +4,7 @@
 
 - [Capturing Logic with Custom Functions in PostgreSQL](https://app.pluralsight.com/library/courses/capturing-logic-custom-functions-postgresql) 
 - [PostgreSQL Functions Playbook](https://app.pluralsight.com/library/courses/posgresql-functions-playbook) 
-- [Manging SQL Server Database Concurrency](https://app.pluralsight.com/library/courses/manage-sql-server-concurrency) 
+- [Managing SQL Server Database Concurrency](https://app.pluralsight.com/library/courses/manage-sql-server-concurrency) 
 - [Designing and Implementing SQL Server Tables and Views](https://app.pluralsight.com/library/courses/sqlserver-tables-view-designing-implementing) 
 - [Getting Started with Python on SQL Server](https://app.pluralsight.com/library/courses/python-sql-server-getting-started) 
 - [Functional Programming with Python](https://app.pluralsight.com/library/courses/python-functional-programming) 
