@@ -1,4 +1,4 @@
-# Current Courses
+# Current Courses on [Pluralsight.com](http://pluralsight.com)
 
 - [Capturing Logic with Custom Functions in PostgreSQL](https://app.pluralsight.com/library/courses/capturing-logic-custom-functions-postgresql) 
 - [PostgreSQL Functions Playbook](https://app.pluralsight.com/library/courses/posgresql-functions-playbook) 

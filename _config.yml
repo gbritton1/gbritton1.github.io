@@ -1,7 +1,7 @@
 title: Gerald Britton, Pluralsight author
 email: gerald.britton@gmail.com
-description: Easy access to my courses on [Pluralsight.com](http://pluralsight.com)
-baseurl: "gbritton1"
+description: Easy access to my courses on Pluralsight.com
+# baseurl: "gbritton1"
 # url: https://gbritton1.github.io/
 twitter_username: GeraldBritton
 github_username: gbritton1
